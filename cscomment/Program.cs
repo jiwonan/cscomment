@@ -13,12 +13,12 @@ namespace cscomment
         {
             int x, y;
 
-            /*
             Console.Write("x값 입력: ");
             x = int.Parse(Console.ReadLine());
             Console.Write("y값 입력: ");
             y = int.Parse(Console.ReadLine());
-            */
+            
+
             if (x > 4)
             {
                 if (y > 2)
